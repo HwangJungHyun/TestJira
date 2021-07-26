@@ -1,0 +1,13 @@
+C:\TestJira\TestJira\TestJira\bin\Debug\netcoreapp3.1\TestJira.exe
+C:\TestJira\TestJira\TestJira\bin\Debug\netcoreapp3.1\TestJira.deps.json
+C:\TestJira\TestJira\TestJira\bin\Debug\netcoreapp3.1\TestJira.runtimeconfig.json
+C:\TestJira\TestJira\TestJira\bin\Debug\netcoreapp3.1\TestJira.runtimeconfig.dev.json
+C:\TestJira\TestJira\TestJira\bin\Debug\netcoreapp3.1\TestJira.dll
+C:\TestJira\TestJira\TestJira\bin\Debug\netcoreapp3.1\TestJira.pdb
+C:\TestJira\TestJira\TestJira\obj\Debug\netcoreapp3.1\TestJira.csproj.AssemblyReference.cache
+C:\TestJira\TestJira\TestJira\obj\Debug\netcoreapp3.1\TestJira.AssemblyInfoInputs.cache
+C:\TestJira\TestJira\TestJira\obj\Debug\netcoreapp3.1\TestJira.AssemblyInfo.cs
+C:\TestJira\TestJira\TestJira\obj\Debug\netcoreapp3.1\TestJira.csproj.CoreCompileInputs.cache
+C:\TestJira\TestJira\TestJira\obj\Debug\netcoreapp3.1\TestJira.dll
+C:\TestJira\TestJira\TestJira\obj\Debug\netcoreapp3.1\TestJira.pdb
+C:\TestJira\TestJira\TestJira\obj\Debug\netcoreapp3.1\TestJira.genruntimeconfig.cache
